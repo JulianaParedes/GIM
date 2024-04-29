@@ -1,18 +1,2 @@
-# Esercizio 1C
-Lettura
-
-## Brief
-Leggere il testo di Kleist e scrivere un commento e publiccarlo nel file README.md.
-
-## Restrizioni
-- 500-1000 caratteri
-
-## Consegna
-Pubblicare il commento sulla piattaforma GitHub nel file README.md.
-
-## Struttura cartella
-```
-GIM/esercizio_1C
-	README.md
-``` 
-
+# grafica in movimento 1c
+Il testo offre una riflessione profonda sulla natura umana e sui movimenti, confrontando le marionette con gli esseri umani sollevando interrogativi sulla loro grazia. Inoltre vi è presente una considerazione sul ruolo dell'arte e della tecnologia nella percezione della bellezza e della perfezione. L'idea che un manichino meccanico possa incarnare una grazia superiore a quella umana, sfida le concezioni tradizionali di estetica costringendoci a rivalutarne il significato. In aggiunta a questa riflessione sulla percezione di bellezza, emerge una discussione sulla perdita dell'innocenza e il desiderio umano di ritornare a uno stato di purezza e semplicità. 

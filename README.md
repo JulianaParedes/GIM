@@ -6,9 +6,6 @@ Corso di grafica in movimento, SUPSI - 2024
 https://julianaparedes.github.io/GIM/Esercizio_1A/acceso_spento_2.html
 https://julianaparedes.github.io/GIM/Esercizio_1A/acceso_spento_3.html
 
-https://julianaparedes.github.io/GIM/Esercizio_1A/aperto_chiuso_2.html
-https://julianaparedes.github.io/GIM/Esercizio_1A/aperto_chiuso_3.html
-
 https://julianaparedes.github.io/GIM/Esercizio_1A/spostamento_2.html
 https://julianaparedes.github.io/GIM/Esercizio_1A/spostamento_3.html
 

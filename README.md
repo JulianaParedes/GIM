@@ -25,7 +25,7 @@ https://julianaparedes.github.io/GIM/Esercizio_1C/README.md
 https://julianaparedes.github.io/GIM/Esercizio_2/indexB.html
 
 # Esercizio_3A
-https://julianaparedes.github.io/GIM/Esercizio_3A/orologio_analogico.html
+https://julianaparedes.github.io/GIM/Esercizio_3A/orologio_analogico/index.html
 https://julianaparedes.github.io/GIM/Esercizio_3A/orologio_digitale.html
 
 

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="author" content="Nome Cognome" />
+	<title>Prova 2</title>
+	<style type="text/css">
+		html, body {
+			height: 100%;
+			margin: 0;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			background-color: rgb(0, 0, 0);
+		}
+		canvas {
+			background-color: white; /* Aggiungi un colore di sfondo al canvas se desiderato */
+		}
+	</style>
+</head>
+<body>
+	<canvas id="sx" width="400" height="400"></canvas>
+	<script type="module">
+		import Sequencer from './js/sequencer.min.js';
+
+		const canvas = document.querySelector("#sx");
+		const sequencer = Sequencer.make({
+			canvas       	: canvas,
+			from         	: "img/parola00000.png",
+			to           	: "img/parola00054.png",
+			direction       : "x",
+			playMode        : "hover",
+			loop         	: "loop",
+		});
+
+		// Aggiungi un listener per il click del mouse
+		canvas.addEventListener('click', () => {
+			sequencer.play();
+		});
+	</script>
+</body>
+</html>

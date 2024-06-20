@@ -12,8 +12,20 @@ https://julianaparedes.github.io/GIM/Esercizio_1A/spostamento_3.html
 https://julianaparedes.github.io/GIM/Esercizio_1A/rotazione_2.html
 https://julianaparedes.github.io/GIM/Esercizio_1A/rotazione_3.html
 
+https://julianaparedes.github.io/GIM/Esercizio_1A/aperto_chiuso_2.html
+https://julianaparedes.github.io/GIM/Esercizio_1A/aperto_chiuso_3.html
+
 # Esercizio_1b
 https://julianaparedes.github.io/GIM/Esercizio_1B/indexA.html
 
 # Esercizio_1c
 https://julianaparedes.github.io/GIM/Esercizio_1C/README.md
+
+# Esercizio_2
+
+
+# Esercizio_3A
+
+
+
+# Esercizio_3B

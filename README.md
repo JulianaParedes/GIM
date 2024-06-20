@@ -26,7 +26,9 @@ https://julianaparedes.github.io/GIM/Esercizio_2/indexB.html
 
 # Esercizio_3A
 https://julianaparedes.github.io/GIM/Esercizio_3A/orologio_analogico/index.html
-https://julianaparedes.github.io/GIM/Esercizio_3A/orologio_digitale.html
-
+https://julianaparedes.github.io/GIM/Esercizio_3A/orologio_digitale/index.html
 
 # Esercizio_3B
+https://julianaparedes.github.io/GIM/Esercizio_3B/1_pong/index.html
+https://julianaparedes.github.io/GIM/Esercizio_3B/2_pioggia/index.html
+https://julianaparedes.github.io/GIM/Esercizio_3B/3_neve/index.html
